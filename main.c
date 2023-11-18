@@ -35,8 +35,8 @@ typedef struct{
 
 typedef struct{
     stUsuario dato;
-    typedef nodoUsuario->sig;
-}nodoUsuario
+    struct nodoUsuario->sig;
+}nodoUsuario;
 ///PROTOTIPADOS
 
 ///Usuario related
