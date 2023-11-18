@@ -33,8 +33,22 @@ typedef struct{
     int admin;
 }stUsuario;
 
+typedef struct{
+    stUsuario dato;
+    typedef nodoUsuario->sig;
+}nodoUsuario
+///PROTOTIPADOS
+
+///Usuario related
+
+
+
 int main()
 {
-    printf("Hello world!\n");
+    
+
+
+
+    
     return 0;
 }
