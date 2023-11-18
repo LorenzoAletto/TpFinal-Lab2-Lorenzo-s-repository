@@ -45,7 +45,7 @@ typedef struct{
 
 int main()
 {
-    
+    printf("Puto el que lee jaja xd lab lab 2 2 jaja lab");
 
 
 
